@@ -1,5 +1,5 @@
-﻿sn,question_type,question,reference,nps_advisor_relevance,nps_advisor_depth,nps_advisor_priority,nps_advisor_answer,cgpt_manual_relevance,cgpt_manual_depth,cgpt_manual_prioritisation,cgpt_answer,gemini_manual_relevance,gemini_manual_depth,gemini_manual_prioritisation,gemini_answer
-1,Descriptive & Exploratory,Summarize the NPS for this year (2024) for Circles life.,"Average NPS of -17 in 2024. 
+﻿sn,question_type,prioritization_flag,question,reference,nps_advisor_relevance,nps_advisor_depth,nps_advisor_priority,nps_advisor_answer,cgpt_manual_relevance,cgpt_manual_depth,cgpt_manual_prioritisation,cgpt_answer,gemini_manual_relevance,gemini_manual_depth,gemini_manual_prioritisation,gemini_answer
+1,Descriptive & Exploratory,1,Summarize the NPS for this year (2024) for Circles life.,"Average NPS of -17 in 2024. 
 
 January 2024: NPS Score of -12.3
 February 2024: NPS Score of -10.6
@@ -38,7 +38,7 @@ Overall, the trend reflects a need to address the factors driving negative senti
 - **September 2024**: NPS Score: -24.43% (Detractors: 52.98%, Passives: 18.47%, Promoters: 28.55%)
 
 Overall, the NPS scores for Circles.Life in 2024 have been negative, indicating a higher percentage of detractors compared to promoters. This trend highlights areas for improvement in customer experience to enhance customer satisfaction and loyalty.",16.67%,23.81%,100.00%,"As of November 2024, Circles.Life has achieved a Net Promoter Score (NPS) of +50 in Singapore, significantly surpassing the industry average.  In Japan, their digital brand, povo2.0, attained an NPS of +30, which is 50 points higher than the industry average.  These figures reflect Circles.Life's commitment to delivering exceptional customer experiences across different markets. ",16.67%,9.52%,100.00%,"Circles.Life has a high Net Promoter Score (NPS) of 50+, which is significantly higher than the industry average of -30. This indicates a high level of customer satisfaction and loyalty."
-2,Descriptive & Exploratory,What trends have Circles life observed in NPS in the past 5 years (by years)?,"""2017: +54 
+2,Descriptive & Exploratory,1,What trends have Circles life observed in NPS in the past 5 years (by years)?,"""2017: +54 
 2018: +50
 2019: +45
 2020: +40
@@ -83,7 +83,7 @@ Some key trends observed in their NPS over time include:
 * **Recognition for Customer Service:** Circles.Life has been recognized as one of Singapore's best customer service retailers and service providers, further solidifying their reputation for exceptional customer experience.
 
 It's important to note that while these trends point to Circles.Life's strong performance, specific data on their NPS over time would provide a more detailed understanding of their progress and any fluctuations."
-3,Descriptive & Exploratory,What are the top issues mentioned in the App Store and Google Play Store for Circles.Life?,"Network Reliability: A significant number of users have expressed dissatisfaction with network quality, citing slow internet speeds and connectivity issues. Many have reported that the signal is poor compared to competitors like Singtel, with some describing their experience as ""the worst ever.""
+3,Descriptive & Exploratory,1,What are the top issues mentioned in the App Store and Google Play Store for Circles.Life?,"Network Reliability: A significant number of users have expressed dissatisfaction with network quality, citing slow internet speeds and connectivity issues. Many have reported that the signal is poor compared to competitors like Singtel, with some describing their experience as ""the worst ever.""
 Login and Authentication Problems: Some users experience difficulties logging into their accounts or face repeated authentication errors.
 
 App Crashes and Performance Issues: There are reports of the app crashing unexpectedly or running slowly, affecting usability.
@@ -142,7 +142,7 @@ Here are some resources for further reading:
 
 * Circles.Life Blog on Network Issues: [https://www.circles.life/au/network-coverage](https://www.circles.life/au/network-coverage)
 * Google Play Store Reviews for Circles.Life: [https://play.google.com/store/apps/details?id=com.circles.selfcare&hl=en](https://play.google.com/store/apps/details?id=com.circles.selfcare&hl=en)"
-4,Descriptive & Exploratory,What emerging themes or trends for Circles.Life are appearing in customer feedback that could impact future NPS? ,"""Analyzing the provided NPS data and customer journey touchpoints, along with reviews from the Google Play and Apple App Stores, reveals several emerging themes in customer feedback that could influence future Net Promoter Scores (NPS):
+4,Descriptive & Exploratory,1,What emerging themes or trends for Circles.Life are appearing in customer feedback that could impact future NPS? ,"""Analyzing the provided NPS data and customer journey touchpoints, along with reviews from the Google Play and Apple App Stores, reveals several emerging themes in customer feedback that could influence future Net Promoter Scores (NPS):
 
 1. Network Performance: A significant number of detractors cite """"Network is inconsistent or unstable"""" as a primary concern. This indicates that network reliability is a critical factor affecting customer satisfaction.
 
@@ -229,7 +229,7 @@ By addressing these trends, Circles.Life can enhance its customer experience, le
 * **Personalized Content Creation:** AI can generate personalized content, such as product recommendations and marketing messages, based on customer feedback and preferences.
 
 By understanding and addressing these emerging trends, businesses can improve their customer experience, increase customer satisfaction, and ultimately boost their NPS."
-5,Diagnostic & Inferential,How many customers are passive in Circles.Life and what are the reasons for that?,"Circles.Life has approximately 1,478 passive customers in 2024. The top reasons for passivity include:
+5,Diagnostic & Inferential,1,How many customers are passive in Circles.Life and what are the reasons for that?,"Circles.Life has approximately 1,478 passive customers in 2024. The top reasons for passivity include:
 
 Network
 Limited Network Coverage: Issues in certain areas, such as high-rise, underground, or remote locations.
@@ -308,7 +308,7 @@ To get a more accurate picture of Circles.Life's passive customer base and the s
 * **Conducting your own research:** You could survey existing or former Circles.Life customers to gather insights into their experiences and reasons for becoming passive.
 
 Remember that the reasons for customer passivity can vary widely, and it's important to consider multiple factors when analyzing this issue."
-6,Diagnostic & Inferential,"
+6,Diagnostic & Inferential,1,"
 What are the top issues causing detractors for Circles.Life and how can we solve these concerns?","Network Coverage and Reliability: Customers have reported inconsistent network coverage and occasional service disruptions, particularly in certain areas.
 
 Solution: Invest in expanding and upgrading network infrastructure to ensure consistent coverage and reliability across all regions.
@@ -411,7 +411,7 @@ By focusing on these areas, Circles.Life can work towards improving customer sat
 * **Social Media Monitoring:** Monitor social media platforms to identify and address customer issues promptly.
 
 By focusing on these areas, Circles.Life can improve customer satisfaction and reduce the number of detractors."
-7,Predictive & Prescriptive,Compare the NPS of Circles with other Singapore Telcos. Which specific features or services offered by competitors contribute to their higher NPS compared to Circles.Life?,"Circles.Life has achieved a Net Promoter Score (NPS) of -17 in 2024, indicating a low level of customer satisfaction and loyalty. For instance, while it is higher than Starhub, this is lower than other competitors such as Singtel. 
+7,Predictive & Prescriptive,0,Compare the NPS of Circles with other Singapore Telcos. Which specific features or services offered by competitors contribute to their higher NPS compared to Circles.Life?,"Circles.Life has achieved a Net Promoter Score (NPS) of -17 in 2024, indicating a low level of customer satisfaction and loyalty. For instance, while it is higher than Starhub, this is lower than other competitors such as Singtel. 
 
 Several features and services offered by competitors may contribute to their NPS performance:
 
@@ -467,7 +467,7 @@ But I can help you with some related tasks that might be useful:
 * I can search the web for additional information on NPS and how to improve it.
 * I can help you create a list of action items to improve Circles.Life's NPS.
 Let me know if you'd like me to do any of these things."
-8,Predictive & Prescriptive,"What key drivers contribute to customers' loyalty and advocacy for Circles.Life, such as mobile plans, connectivity, or customer service?","4 Key Strategies:
+8,Predictive & Prescriptive,0,"What key drivers contribute to customers' loyalty and advocacy for Circles.Life, such as mobile plans, connectivity, or customer service?","4 Key Strategies:
 
 Exceptional Customer Service: The company emphasizes proactive support, including onsite troubleshooting and rapid issue resolution
 
@@ -529,7 +529,7 @@ By integrating these strategies, Circles.Life has successfully built a loyal cus
 Overall, Circles.Life goes beyond just points and rewards. They focus on creating a positive customer experience through ease of use, recognizing loyalty, and a commitment to good service. This combination can foster a sense of value and trust that leads to long-term customer relationships.
  
 **It's important to note** that some Circles.Life plans (4G Lite, Family Plan, and Data-Only) are currently excluded from the Circle of Joy program. However, they are working on including them in the future."
-9,Predictive & Prescriptive,"Based on the reasons for NPS, which aspects should Circles.Life focus on?","Positive Aspects (Promoter Reasons):
+9,Predictive & Prescriptive,0,"Based on the reasons for NPS, which aspects should Circles.Life focus on?","Positive Aspects (Promoter Reasons):
 Value for Money: Many customers appreciate plans that they perceive as providing good value.
 Flexibility of Plans: Flexibility is a key positive aspect for promoters.
 High Data Allowance: Promoters value plans with a substantial data allowance.
@@ -595,7 +595,7 @@ By concentrating on these areas, Circles.Life can continue to improve its NPS, f
 
 **Overall, Circles.Life seems to be on the right track. By continuing to prioritize customer satisfaction and remaining innovative, they can solidify their position as a leader in the telco industry.**
  "
-10,"Comparative, Causal & Segmentation",What are the primary reasons for promoters' high score?,"Value for Money: Affordable plans that provide good value.
+10,"Comparative, Causal & Segmentation",0,What are the primary reasons for promoters' high score?,"Value for Money: Affordable plans that provide good value.
 Flexible Plans: Ability to customize plans to meet individual needs.
 High Data Allowance: Generous data provisions.
 Consistent and Stable Network: Reliable connectivity and minimal disruptions.
@@ -659,7 +659,7 @@ These factors combined contribute to high satisfaction and the likelihood of pro
 
 Overall, Circles.Life's combination of affordability, convenience, flexibility, and customer focus has contributed to its high promoter scores and positive reputation in the market.
 "
-11,"Comparative, Causal & Segmentation","Do certain customer segments experience significantly different NPS outcomes, and what drives these variations?","Segment-Specific NPS Outcomes
+11,"Comparative, Causal & Segmentation",0,"Do certain customer segments experience significantly different NPS outcomes, and what drives these variations?","Segment-Specific NPS Outcomes
 Plan Type:
 
 High NPS (Promoters): Customers with plans offering higher data limits (e.g., 50GB) and premium features like 5G support generally report higher NPS. Promoters often cite satisfaction with both plan value and network quality.
@@ -755,7 +755,7 @@ By focusing on these areas, Circles.Life effectively enhances customer satisfact
 
 By understanding these factors and implementing targeted strategies, Circles.Life can improve customer satisfaction and NPS across all segments.
 "
-12,"Comparative, Causal & Segmentation","How do NPS scores vary across customer segments by geography, demographics, or usage patterns?","1. Geography (Roaming vs. Non-Roaming Segments):
+12,"Comparative, Causal & Segmentation",0,"How do NPS scores vary across customer segments by geography, demographics, or usage patterns?","1. Geography (Roaming vs. Non-Roaming Segments):
 High NPS (Promoters): Non-roaming customers report higher satisfaction and tend to be promoters, possibly because they experience more stable network performance in familiar areas and avoid unexpected roaming charges.
 Low NPS (Detractors): Roaming customers often express frustration with network consistency and surprise charges related to roaming. These factors contribute to lower NPS scores, as international or frequent travelers encounter connectivity issues or high fees, making them more likely to be detractors.
 2. Demographics (Age and Device Type):
@@ -822,7 +822,7 @@ Here are some potential factors that could influence NPS scores across different
 * **International Roaming:** Customers who frequently use international roaming might have specific concerns about pricing and service quality.
 
 By analyzing NPS scores across these segments, Circles.Life can identify areas for improvement and tailor their offerings to better meet the needs of different customer groups. This can lead to higher customer satisfaction, loyalty, and ultimately, better business outcomes."
-13,"Comparative, Causal & Segmentation","At which stages do customers encounter either friction or delight, such as onboarding, customer support, or billing?","Onboarding:
+13,"Comparative, Causal & Segmentation",0,"At which stages do customers encounter either friction or delight, such as onboarding, customer support, or billing?","Onboarding:
 Delight: Promoters in the data often appreciate a seamless onboarding experience, which is likely linked to positive comments on plan activation and ease of setup, especially for digital services or eSIM activations.
 Friction: Detractors report challenges in this stage when initial setup is delayed or unclear. Frustrations with onboarding appear in cases where customers had issues with porting numbers or expected more guidance on plan details.
 2. Customer Support:
@@ -920,7 +920,7 @@ For a visual explanation of how billing works at Circles.Life, you might find th
     * **Payment Processing Issues:** Technical issues or delays in payment processing could result in service interruptions or additional charges.
 
 Overall, Circles.Life has a strong focus on delivering a positive customer experience, and they continuously work to identify and address potential pain points. By leveraging technology and a customer-centric approach, they aim to minimize friction and maximize delight throughout the customer journey."
-14,Diagnostic & Inferential,Is there a difference in NPS score between port-in customers & new number? What is driving the difference?,"The average NPS score for New Number customers is -6, while Port-in customers have a slightly lower average NPS score of -22.
+14,Diagnostic & Inferential,0,Is there a difference in NPS score between port-in customers & new number? What is driving the difference?,"The average NPS score for New Number customers is -6, while Port-in customers have a slightly lower average NPS score of -22.
 
 Key Drivers for the Difference
 Promoters (Positive Reasons):
@@ -1004,7 +1004,7 @@ While specific NPS data comparing these customer segments isn't publicly availab
 * This could lead to lower customer satisfaction and lower NPS scores among portin customers.
 
 To determine the exact reasons for the NPS score difference between portin and new number customers, Circle Life should conduct a thorough analysis of customer feedback and data. This analysis could include surveys, customer support interactions, and network performance metrics. By identifying the root causes of the difference, Circle Life can take steps to improve the experience for portin customers and increase their NPS score."
-15,Predictive & Prescriptive,"What trends can be identified in NPS related to product launches, promotions, or shifts in customer perception?","No data for product launches.
+15,Predictive & Prescriptive,0,"What trends can be identified in NPS related to product launches, promotions, or shifts in customer perception?","No data for product launches.
 No data for promotions.
 Summary of customer perception
 The average NPS score reveals a few notable shifts:
